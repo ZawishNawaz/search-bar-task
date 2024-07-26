@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+.image {
+    max-width: 200px;
+    max-height: 200px;
+    width: 100%;
+    height: auto;
+}
+.dropdown-item-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.badge {
+    position:right;
+}
+.search-bar {
+    position: relative;
+}
+.dropdown-menu {
+    width: 100%;
+}
